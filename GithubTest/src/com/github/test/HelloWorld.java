@@ -7,6 +7,6 @@ public class HelloWorld {
 	 * @author: wenli
 	 */
 	public static void main(String[] args) {
-		System.out.println("HelloWorld");
+		System.out.println("HelloWorld2");
 	}
 }
